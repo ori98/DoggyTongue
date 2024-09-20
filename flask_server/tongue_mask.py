@@ -13,6 +13,10 @@ import os
 INPUT_IMAGE_FOLDER = os.path.join(os.getcwd(), 'test_images', 'input_image')
 OUTPUT_IMAGE_FOLDER = os.path.join(os.getcwd(), 'test_images', 'output_image')
 
+# Create the directories if they do not exist
+os.makedirs(INPUT_IMAGE_FOLDER, exist_ok=True)
+os.makedirs(OUTPUT_IMAGE_FOLDER, exist_ok=True)
+
 def process_image(input_image):
     # Load the image
     img = cv2.imread(input_image)
