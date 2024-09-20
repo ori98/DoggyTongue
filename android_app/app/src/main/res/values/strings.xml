@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DoggyTongue</string>
+    <string name="open_cam">Open Camera</string>
+    <string name="upload_image">Upload Image</string>
+</resources>
