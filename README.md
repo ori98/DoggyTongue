@@ -43,3 +43,21 @@ DoggyTongue is composed of two core components:
    ```bash
    python main.py
 Ensure that all dependencies listed in requirements.txt are installed
+
+## Publications
+### DoggyTongue: Automate Tongue Segmentation for TCM Diagnosis
+**Authors**: Orijit Bhattacharya, QingQing Liu, Hwei Jen Lin, Chen-Hsiang Yu  
+**Conference**: 2024 IEEE International Conference on E-health Networking, Applications & Services (IEEE Healthcom 2024)  
+**Date**: November 2024  
+
+**Description**:  
+This paper presents an automated approach to tongue segmentation for Traditional Chinese Medicine (TCM) diagnosis using deep learning techniques. The model enhances accuracy and efficiency in TCM practices by automating tongue image analysis.
+
+**Status**: Accepted for presentation at IEEE Healthcom 2024.  
+
+📄 [IEEE Healthcom 2024](https://www.ieee-healthcom.org/)  
+
+---
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
