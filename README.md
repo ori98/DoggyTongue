@@ -2,6 +2,11 @@
 
 **DoggyTongue** is an innovative Android app developed for Traditional Chinese Medicine (TCM) research. The app captures, processes, and analyzes tongue images from facial photos, utilizing advanced image segmentation techniques to assist in TCM diagnosis.
 
+## Citation
+When using this resource, please cite the original publication: 
+
+Orijit Bhattacharya, QingQing Liu, Hwei Jen Lin and Chen-Hsiang Yu. "DoggyTongue: Automate Tongue Segmentation for TCM Diagnosis." 2024 IEEE International Conference on E-health Networking, Applications & Services (IEEE Healthcom 2024), November 2024.
+
 ## 📱 App Structure
 
 DoggyTongue is composed of two core components:
