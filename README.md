@@ -5,7 +5,7 @@
 ## Citation
 When using this resource, please cite the original publication: 
 
-Orijit Bhattacharya, QingQing Liu, Hwei Jen Lin and Chen-Hsiang Yu. "DoggyTongue: Automate Tongue Segmentation for TCM Diagnosis." 2024 IEEE International Conference on E-health Networking, Applications & Services (IEEE Healthcom 2024), November 2024.
+Orijit Bhattacharya, QingQing Liu, Hwei Jen Lin and Chen-Hsiang Yu. "_DoggyTongue_: Automate Tongue Segmentation for TCM Diagnosis." _2024 IEEE International Conference on E-health Networking, Applications & Services (IEEE Healthcom 2024)_, November 2024.
 
 ## 📱 App Structure
 
